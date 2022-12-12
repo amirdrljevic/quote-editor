@@ -35,3 +35,4 @@ end
 # Use Redis for Action Cable
 gem 'redis-rails', '~> 5.0', '>= 5.0.2'
 gem "redis", "~> 4.0"
+gem 'devise', '~> 4.8', '>= 4.8.1'
